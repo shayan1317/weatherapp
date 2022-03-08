@@ -1,0 +1,28 @@
+.ui.cards {
+  margin-top: 4rem !important;
+  justify-content: center;
+}
+.temp:first-child {
+  font-size: 64px;
+}
+.main {
+  padding: 2rem 0 !important;
+}
+.speed,
+.hum {
+  font-size: 30px;
+}
+
+.refresh {
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 70px;
+  background-color: rgb(68, 31, 31);
+  color: white;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+
+  font-family: "Montserrat", sans-serif;
+}
